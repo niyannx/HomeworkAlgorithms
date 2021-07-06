@@ -1,0 +1,9 @@
+moon - 7
+system - 5
+venus - 3
+planet - 16
+mercury - 4
+jupiter - 3
+orbit - 4
+sun - 12
+asteroid - 7
